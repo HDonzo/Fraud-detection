@@ -1,0 +1,14 @@
+# Données brutes 
+
+Data
+*.csv
+*.tsv
+
+# Environnements 
+
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+

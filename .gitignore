@@ -12,3 +12,8 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
+
+# Données brutes
+creditcard.csv
+Outputs/*.png
+.ipynb_checkpoints/

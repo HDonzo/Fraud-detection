@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 # Fraud-detection
 
@@ -101,4 +101,4 @@ Projet personnel d’exploration et de prédiction sur des données bancaires, r
 📜 Licence
 
 MIT License
->>>>>>> b80e9ca (Ajout des notebooks EDA et Predict ainsi que requirements et README)
+
